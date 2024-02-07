@@ -15,7 +15,7 @@ import org.w3c.dom.NodeList;
 /**
  * The enum that represents the selected language
  * 
- * @author Artiom
+ * @author Timothy Adewuyi
  *
  */
 enum Language {
@@ -25,7 +25,7 @@ enum Language {
 /**
  * The class that handles internationalization and language changes
  * 
- * @author Artiom
+ * @author Timothy Adewuyi
  *
  */
 public class Translator {

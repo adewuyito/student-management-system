@@ -10,7 +10,7 @@ import org.junit.Test;
 /**
  * The class that tests DBHandler class' methods
  * 
- * @author Artiom
+ * @author Timothy Adewuyi
  *
  */
 public class DBHandlerTest {

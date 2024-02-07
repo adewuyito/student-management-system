@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
  * The class that allows access to a database for reading and writing data
  * purposes
  * 
- * @author Artiom
+ * @author Timothy Adewuyi
  *
  */
 public class DBHandler {

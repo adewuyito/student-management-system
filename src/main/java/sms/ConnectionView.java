@@ -20,7 +20,9 @@ import javax.swing.JTextField;
  * The class that holds the front-end connection part of the application and
  * manages the actions performed out there
  * 
- * @author Artiom
+ * @author Timothy Adewuyi
+ * @author Timothy Adewuyi
+ 
  *
  */
 public class ConnectionView {

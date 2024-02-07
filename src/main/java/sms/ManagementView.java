@@ -31,7 +31,7 @@ import javax.swing.table.TableRowSorter;
  * The class that holds the front-end table-management part of the application
  * and manages the actions performed out there
  * 
- * @author Artiom
+ * @ Timothy Adewuyi
  *
  */
 public class ManagementView {

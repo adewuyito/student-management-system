@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * The class that tests ConnectionView class' GUI
  * 
- * @author Artiom
+ * @author Timothy Adewuyi
  *
  */
 public class ConnectionViewTest {

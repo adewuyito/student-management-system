@@ -9,7 +9,7 @@ enum Gender {
 /**
  * The class that holds and manages the information about students
  * 
- * @author Artiom
+ * @author Timothy Adewuyi
  *
  */
 public class Student {

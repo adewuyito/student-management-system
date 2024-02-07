@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * The class that tests ManagementView class' GUI
  * 
- * @author Artiom
+ * @author Timothy Adewuyi
  *
  */
 public class ManagementViewTest {
